@@ -1,0 +1,5 @@
+*.wgt
+*.zip
+.*_delta*
+*/.settings/
+*/.sign/

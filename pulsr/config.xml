@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:tizen="http://tizen.org/ns/widgets" id="http://vikseriq.xyz/tizen/pulsr" version="1.0.0" viewmodes="maximized">
+    <tizen:application id="cibyhdxb0b.pulsr" package="cibyhdxb0b" required_version="2.2"/>
+    <author href="http://vikseriq.xyz/" email="vikseriq@gmail.com">vikseriq</author>
+    <content src="index.html"/>
+    <feature name="http://tizen.org/feature/screen.size.all"/>
+    <icon src="icon.png"/>
+    <license href="http://vikseriq.xyz/mit.txt">MIT</license>
+    <name>pulsr</name>
+    <tizen:privilege name="http://developer.samsung.com/privilege/healthinfo"/>
+    <tizen:profile name="wearable"/>
+    <tizen:setting background-support="enable" encryption="disable" hwkey-event="enable"/>
+</widget>

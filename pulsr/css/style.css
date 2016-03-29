@@ -1,0 +1,24 @@
+body {
+	margin: 0;
+	background-color: #000;
+	font-family: Helvetica, sans-serif;
+	color: #fff;
+	font-size: 1em;
+}
+
+.content_holder {
+	margin: 0.5em auto 0;
+	text-align: center;
+}
+
+.content_time {
+	font-weight: 700;
+	font-size: 2.5em;
+}
+
+.content_pulse {
+	font-weight: 100;
+	font-size: 4em;
+	margin: 0.5em 0;
+	color: #ddd;
+}
